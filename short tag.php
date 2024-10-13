@@ -1,0 +1,3 @@
+<?
+// kode php anda disini
+?/
